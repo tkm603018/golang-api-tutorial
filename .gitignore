@@ -1,0 +1,6 @@
+
+.DS_Store
+./src/path
+./src/vendor
+
+go.sum
