@@ -1,6 +1,6 @@
 
 .DS_Store
-./src/path
-./src/vendor
+/src/path
+/src/vendor
 
 go.sum
